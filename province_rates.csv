@@ -1,0 +1,14 @@
+province,electricity_rate_cad_per_kwh,natural_gas_rate_cad_per_m3,grid_emission_factor_gco2_per_kwh,notes
+ON,0.13,0.38,40,
+QC,0.07,0.45,2,
+BC,0.11,0.40,12,
+AB,0.17,0.28,410,
+MB,0.09,0.30,10,
+SK,0.15,0.30,580,
+NS,0.17,0.55,390,gas rate is a placeholder; limited municipal gas network
+NB,0.12,0.55,300,gas rate is a placeholder; limited municipal gas network
+PE,0.16,0.55,30,gas rate is a placeholder; limited municipal gas network
+NL,0.12,0.55,25,gas rate is a placeholder; limited municipal gas network
+YT,0.14,0.55,50,gas rate is a placeholder; limited municipal gas network
+NT,0.30,0.55,180,gas rate is a placeholder; diesel-dependent in many communities
+NU,0.35,0.55,700,gas rate is a placeholder; diesel-dependent in most communities

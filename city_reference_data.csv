@@ -1,0 +1,43 @@
+city,province,heating_degree_days_base18C,cooling_degree_days_base18C
+Toronto,ON,3520,300
+Ottawa,ON,4300,350
+Hamilton,ON,3600,320
+London,ON,3850,280
+Windsor,ON,3300,380
+Thunder Bay,ON,4800,150
+Sudbury,ON,4700,200
+Kingston,ON,4000,280
+Montreal,QC,4200,280
+Quebec City,QC,4700,230
+Gatineau,QC,4350,330
+Sherbrooke,QC,4500,230
+Saguenay,QC,5200,180
+Vancouver,BC,2900,90
+Victoria,BC,2700,70
+Kelowna,BC,3400,400
+Prince George,BC,4600,120
+Kamloops,BC,3300,450
+Calgary,AB,5000,150
+Edmonton,AB,5250,170
+Red Deer,AB,5300,140
+Lethbridge,AB,4700,220
+Fort McMurray,AB,6200,120
+Winnipeg,MB,5650,230
+Brandon,MB,5750,220
+Thompson,MB,7200,80
+Saskatoon,SK,5950,230
+Regina,SK,5900,250
+Prince Albert,SK,6200,190
+Halifax,NS,4000,130
+Sydney,NS,4300,100
+Truro,NS,4200,120
+Fredericton,NB,4500,230
+Moncton,NB,4400,190
+Saint John,NB,4300,90
+Charlottetown,PE,4350,150
+St. John's,NL,4650,40
+Corner Brook,NL,4500,90
+Labrador City,NL,7500,90
+Whitehorse,YT,6700,90
+Yellowknife,NT,8000,80
+Iqaluit,NU,10500,20
